@@ -1,3 +1,9 @@
+---
+layout: page
+title: "List of Figures"
+permalink: /list-of-figures
+---
+
 # First Section
 
 ## A Subsection Sample
